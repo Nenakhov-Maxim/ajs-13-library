@@ -1,0 +1,23 @@
+{
+  "name": "ajs-13-library",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/index.js",
+  "dependencies": {
+    "@nenakhov-maxim/ajs-13": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nenakhov-Maxim/ajs-13-library.git"
+  },
+  "author": "Nenakhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nenakhov-Maxim/ajs-13-library/issues"
+  },
+  "homepage": "https://github.com/Nenakhov-Maxim/ajs-13-library#readme"
+}
